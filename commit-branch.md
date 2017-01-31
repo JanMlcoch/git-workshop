@@ -19,6 +19,7 @@
   - squash
   - reword
   - reflog
+  -ddsds
 
 
 ## K čemu to je dobrý?
