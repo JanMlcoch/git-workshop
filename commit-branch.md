@@ -22,6 +22,8 @@
   -ddsds
 
 
+moje změny v masteru
+
 ## K čemu to je dobrý?
 Představte si, že na projektu pracuje tisíc lidí. Co když mají všichni najednou otevřený jeden soubor? Nebo jsou všichni na jednom síťovém uložišti...?
 
